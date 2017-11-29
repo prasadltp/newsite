@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: somename@somedomain.com
-description: Just Another Jekyll Theme
+description: MEDICI 2.0
 logo_location: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/ltplogo.png
 markdown: kramdown
 kramdown:
