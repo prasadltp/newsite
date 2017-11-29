@@ -1,0 +1,21 @@
+---
+title: LTP
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: somename@somedomain.com
+description: Just Another Jekyll Theme
+logo_location: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/ltplogo.png
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+exclude:
+- README.md
+excerpt_separator: "<!--more-->"
+show_blog_header: true
